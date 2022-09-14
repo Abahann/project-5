@@ -1,0 +1,10 @@
+## PROJECT-5 DOCUMENTATION
+
+`sudo apt update -y`
+![apt update status](./images/apt%20update%20status.png)
+`sudo mysql`
+![mysql status](./images/mysql%20status.png)
+`ip addr show`
+![ip addr status](./images/ip%20addr%20status.png)
+`sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf`
+![remote_user status](./images/remote_user%20status.png)

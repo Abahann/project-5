@@ -1,1 +1,2 @@
 # project-5
+Is all about implementing a client server Architecture using MySQL Database Management System (DBMS).i was able to  demonstrate a basic client-server using MySQL Relational Database Management System (RDBMS), and with the use of the following command. 
